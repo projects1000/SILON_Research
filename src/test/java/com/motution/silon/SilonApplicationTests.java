@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.motution.silon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemocrudApplicationTests {
+class SilonApplicationTests {
 
 	@Test
 	void contextLoads() {
